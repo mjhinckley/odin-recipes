@@ -1,9 +1,13 @@
 /* Styles */
 
 div {
-    background-color: red;
-    color: white;
+    background-color: #f6c0cb;
+    color: black;
     font-size: 32px;
     text-align: center;
-    font-weight: bold;
+    font-weight: bold;    
+    padding: 10px;
+    border: 1px solid;
+    margin: 30px;
+    border-color: blue;
 }
